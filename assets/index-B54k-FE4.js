@@ -1,0 +1,1 @@
+import{_ as c,b as s,c as t,i as a,p as o,k as d,e as _}from"./index-DJWkkvtc.js";const r={},n=e=>(o("data-v-ef23640f"),e=e(),d(),e),p=n(()=>_("div",{class:"test"}," 响应式布局测试 ",-1));function f(e,i){return s(),t("div",null,[a(" 管理员设置页 "),p])}const u=c(r,[["render",f],["__scopeId","data-v-ef23640f"]]);export{u as default};

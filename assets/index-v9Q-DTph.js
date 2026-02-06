@@ -1,0 +1,1 @@
+import{u as a,a as e,b as u,c as _,i as t,f as o,w as p}from"./index-DJWkkvtc.js";const v={__name:"index",setup(i){const n=a(),s=()=>{n.push("/userSet-Menu")};return(l,m)=>{const r=e("vs-button"),c=e("router-view");return u(),_("div",null,[t(" 用户设置页 "),o(r,{onClick:s},{default:p(()=>[t(" 嵌套 ")]),_:1}),o(c)])}}};export{v as default};
